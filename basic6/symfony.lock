@@ -29,7 +29,7 @@
             "repo": "github.com/symfony/recipes",
             "branch": "master",
             "version": "1.6",
-            "ref": "3d54b5940ca798e4b33918dd8e3309bfadbb339e"
+            "ref": "44d3aa7752dd46f77ba11af2297a25e1dedfb4d0"
         }
     },
     "doctrine/doctrine-cache-bundle": {
@@ -75,10 +75,10 @@
         "version": "1.23.0"
     },
     "ocramius/package-versions": {
-        "version": "1.3.0"
+        "version": "1.2.0"
     },
     "ocramius/proxy-manager": {
-        "version": "2.2.0"
+        "version": "2.1.1"
     },
     "psr/cache": {
         "version": "1.0.1"
@@ -173,7 +173,7 @@
             "repo": "github.com/symfony/recipes",
             "branch": "master",
             "version": "3.3",
-            "ref": "ab8d43770fe04b6df060fc74b807a547144a6d99"
+            "ref": "745e7484cd01175d1c605793f06a01e53804290a"
         }
     },
     "symfony/http-foundation": {
@@ -219,10 +219,10 @@
         }
     },
     "symfony/polyfill-mbstring": {
-        "version": "v1.7.0"
+        "version": "v1.6.0"
     },
     "symfony/polyfill-php72": {
-        "version": "v1.7.0"
+        "version": "v1.6.0"
     },
     "symfony/process": {
         "version": "v4.0.4"
